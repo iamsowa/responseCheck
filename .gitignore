@@ -1,0 +1,10 @@
+# Ignore all files with the .class extension
+*.class
+
+# Ignore all files in the build/ directory
+build/
+
+# Ignore the file secrets.txt
+secrets.txt
+
+.idea/
